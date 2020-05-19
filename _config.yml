@@ -99,6 +99,6 @@ theme: landscape
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: https://github.com/zhouzhoutu/thezhouzhou.git
-  branch: gh-pages
+  repo: https://github.com/zhouzhoutu/myblog
+  branch: master
   message: "站点更新"
